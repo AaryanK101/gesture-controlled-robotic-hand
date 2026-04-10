@@ -3,6 +3,8 @@ A gesture-controlled robotic hand developed as part of the **Circuits and System
 
 This project uses a flex-sensor glove to detect finger movement and map those gestures onto a servo-actuated robotic hand in real time. The system also includes an OLED interface and an interactive Rock-Paper-Scissors game mode to demonstrate gesture recognition in a more engaging way.
 
+Youtube: https://youtu.be/TnD_lznMmZ8
+
 ## Project Overview
 
 The aim of this project was to design and build a complete embedded system that could:
